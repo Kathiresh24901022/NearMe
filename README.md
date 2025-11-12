@@ -38,7 +38,6 @@ Execute the programs and publish them.
 </head>
 <body>
     <h1>SALEM - IMAGE MAPPING</h1>
-    <h2>KABELAN G K - 212224110027</h2>
 
     <img src="SalemMap.png" alt="SalemMap" usemap="#MyCity">
 
@@ -138,12 +137,11 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![alt text](Main.png)
+![alt text](<WhatsApp Image 2025-11-12 at 09.33.12_7472c1b0.jpg>)
 ![alt text](Iskcon.png)
 ![alt text](Zoo.png)
 ![alt text](1008Temple.png)
 ![alt text](Salem.png)
-
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
