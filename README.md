@@ -138,11 +138,11 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-
-
-
-
-
+![alt text](Main.png)
+![alt text](Iskcon.png)
+![alt text](Zoo.png)
+![alt text](1008Temple.png)
+![alt text](Salem.png)
 
 
 ## RESULT
